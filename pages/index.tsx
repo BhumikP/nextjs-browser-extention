@@ -5,7 +5,7 @@ const Home: NextPage = () => {
     <main>
       <section>
         <h1>Hello!</h1>
-        <p>This is a Next.js application. 😎</p>
+        <p>This is a Next.js application by Bhumik. 😎</p>
       </section>
     </main>
   );
